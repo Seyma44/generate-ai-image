@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app-input{
+  width: 300px;
+  height: 30px;
+  margin: 20px;
+  margin-bottom: 40px;
+  border-radius: 10%;
+  border-color: rgb(92, 192, 255);
+}
+
+.app-input:focus-visible {
+  outline: -webkit-focus-ring-color auto 0.5px;
+  outline-color: #ef4fed;
+}
+
+.result-img{
+  width: 300px;
+  margin-top: 20px;
+}
