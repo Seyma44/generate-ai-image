@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="app-main">
-      <img src='../public/vite.svg'/>
+      <img src='/vite.svg'/>
       <h3>Generate an Image using Open AI Tool</h3>
       <input 
         className="app-input"
