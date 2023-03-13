@@ -1,5 +1,7 @@
 # Generate Ai Image
 
+![Studio_Project](https://user-images.githubusercontent.com/3766249/224801842-c84a8050-06c1-4cd6-9da5-2fb87edb6b80.gif)
+
 AI Image Generator with Vite + React
 This is a web application built with Vite + React that allows users to generate AI-generated images. The application uses OpenAI's GPT-3 (Generative Pre-trained Transformer 3) API to generate images based on user input.
 
