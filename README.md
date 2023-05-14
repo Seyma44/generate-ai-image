@@ -11,15 +11,15 @@ Before running this project, you need to have Node.js and yarn installed on your
 # Getting Started
 Clone the repository to your local machine.
 
-Install the dependencies with
-<code> yarn </code>
+Install the dependencies with <br>
+<code> yarn </code> or <code> npm install </code>
 
 Create an account with OpenAI and obtain an API key.
 
 Create a .env file in the root directory of the project and add your API key.
 
-Run the development server with
-<code> yarn run dev </code>
+Run the development server with <br>
+<code> yarn run dev </code> or <code> npm run dev </code>
 
 # Features
 Generate AI-generated images based on user input.
